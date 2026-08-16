@@ -1,24 +1,15 @@
 {
-  "version": "0.1.5",
-  "description": "The App Store for Developers — Clone. Scan. Install. Build.",
-  "homepage": "https://github.com/HEETMEHTA18/autodev",
-  "license": "MIT",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/HEETMEHTA18/autodev/releases/download/v0.1.5/autodev_windows_amd64.zip",
-      "hash": "119d8e2989d44f4f5acd04eeac98ec09b054c213387b074c412f62376b731455",
-      "extract_dir": ""
-    }
-  },
-  "bin": "autodev.exe",
-  "checkver": {
-    "github": "https://github.com/HEETMEHTA18/autodev"
-  },
-  "autoupdate": {
+    "version": "0.6.0",
     "architecture": {
-      "64bit": {
-        "url": "https://github.com/HEETMEHTA18/autodev/releases/download/v$version/autodev_windows_amd64.zip"
-      }
-    }
-  }
+        "64bit": {
+            "url": "https://github.com/HEETMEHTA18/autodev/releases/download/v0.6.0/autodev_windows_amd64.zip",
+            "bin": [
+                "autodev.exe"
+            ],
+            "hash": "70160b08774b34d242e8e303aa4544437e6069b0f7b0aef75d5b8ba2bd54d340"
+        }
+    },
+    "homepage": "https://github.com/HEETMEHTA18/autodev",
+    "license": "MIT",
+    "description": "The App Store for Developers"
 }
