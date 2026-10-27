@@ -1,12 +1,12 @@
 {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/HEETMEHTA18/autodev/releases/download/v0.6.1/autodev_windows_amd64.zip",
+            "url": "https://github.com/HEETMEHTA18/autodev/releases/download/v0.6.2/autodev_windows_amd64.zip",
             "bin": [
                 "autodev.exe"
             ],
-            "hash": "8f1919c23372ace7e3a20d760fb2543839ed7bcc0a89e70160c9ae8208fa2f47"
+            "hash": "b3e1b19193ca7e13b79dcb294fc8107dad94a090092738e6b0e88fb9e2bd7e16"
         }
     },
     "homepage": "https://github.com/HEETMEHTA18/autodev",
